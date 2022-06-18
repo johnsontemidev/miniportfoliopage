@@ -10,7 +10,7 @@
     <a href="https://johnsontemidev.github.io/myportfolio"> johnsontemidev.github.io/myportfolio</a>
     <br />
     <br />
-    <a href="https://https://johnsontemidev.blogspot.com/2022/06/homepage-portfolio-design-2.html">About Me</a>
+    <a href="https://https://johnsontemidev.blogspot.com/">About Me</a>
     ·
     <a href="https://github.com/johnsontemidev/myportfolio/issues">Report Bug</a>
     .

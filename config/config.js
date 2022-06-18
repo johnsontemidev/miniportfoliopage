@@ -49,13 +49,13 @@ export const intro = {
 
 export const about = {
 	title: "About Me -- Aspiring developer at SovTech",
-	link:  "https://www.sovtech.co.za",
+	link: "https://www.sovtech.co.za",
 	description: [
-              
+
 		"I recently completed my BSc in Information Technology in 2021, and a certificate programme in Software Engineering. I'm so passionate about Tech and a passionate learner who's always willing to solve problems, and work across technologies and domains. I love to explore new technologies and leverage. I use my free time to guide and mentor upcoming students who are also passionate about Tech.",
 		"The dispensation of the Tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. This has led me to pursue the passion i have as a developer at SovTech",
 		"I would really love to be a developer at SovTech, because it will be a great priviledge for anyone who's passionate about Technology to work and associate with a reputable company like SovTech. I read about SovTech, and realized that I would be a great fit as a developer in the organization because I match the requirements needed to further develop my knowledge, utilize my skills and further gain experience, while enhancing the producitivity of the organization",
-	     
+
 	],
 }
 
@@ -81,7 +81,7 @@ export const projects = {
 		{
 			title: "Data Analytics",
 			description: "Interface with stock price datafeed for data analysis | Display data visually for traders | Using JPMorgan Chase frameworks and tools | Life Expectancy and Birth Rate data measured for each country | Implementing k-means algorithm to run and provide data",
-			icons: [						
+			icons: [
 				{
 					icon: faGithub,
 					link: "https://github.com/johnsontemidev/reactRepoDev",
@@ -112,7 +112,7 @@ export const projects = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/johnsontemidev/portfolio",
+					link: "https://github.com/johnsontemidev/myportfolio",
 				},
 			]
 		},
@@ -153,7 +153,7 @@ export const links = {
 			title: "Blog",
 			link: "https://johnsontemidev.blogspot.com/",
 		},
-		
+
 		{
 			title: "GitHub",
 			link: "https://github.com/johnsontemidev/",
