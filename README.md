@@ -1,26 +1,26 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center">Temilola Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
+    It is a personal static portfolio hosted with GitHub Pages, built to showcase my skills as i'm learning and developing my knowledge with modern React frameworks.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://hashirshoaeb.github.io/portfolio"> hashirshoaeb.github.io/portfolio</a>
+    <a href="https://johnsontemidev.github.io/portfolio"> johnsontemidev.github.io/portfolio</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.com">About Me</a>
+    <a href="https://https://johnsontemidev.blogspot.com/2022/06/homepage-portfolio-design-2.html">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Report Bug</a>
+    <a href="https://github.com/johnsontemidev/portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Request Feature</a>
+    <a href="https://github.com/johnsontemidev/portfolio/issues">Request Feature</a>
   </p>
 </p>
 
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/network)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+[![GitHub forks](https://img.shields.io/github/forks/johnsontemidev/portfolio?style=for-the-badge)](https://github.com/johnsontemidev/portfolio/network)
+[![GitHub license](https://img.shields.io/github/license/johnsontemidev/portfolio?style=for-the-badge)](https://github.com/johnsontemidev/portfolio/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/johnsontemidev?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/johnsontemidev1)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=14.17.3&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=7.19.1&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
@@ -39,7 +39,7 @@
         <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributing">Your Contribution</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -51,15 +51,14 @@
 
 [![Product Name Screen Shot](/READMEdocs/screenshot.gif)](https://example.com)
 
-There are many portfolio website templates available on Github, however, I didn't find one that really suit my needs so I created this one. A simple, easy to configure, lightweight, and responsive static portfolio website.
-
-I know one template doesn't fulfill everyone's needs. So I'll try adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+This is a personal mini portfolio hosted by GitHub Pages, built to develop and showcase my knowledge in frontend development with Next.JS.
+.
 
 **Features**
 
-- [x] Easy to configure
-- [x] SEO friendly
-- [x] Responsive
+- [x] Easy configuration
+- [x] Friendly - SEO
+- [x] Smart & Responsive
 - [x] Lightweight
 - [x] Linktree Page
 
@@ -70,7 +69,7 @@ I know one template doesn't fulfill everyone's needs. So I'll try adding more fe
 <!-- GETTING STARTED -->
 # Getting Started
 
-Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below. Please feel free to reach out to me by filing an [issue](https://github.com/hashirshoaeb/portfolio/issues) or emailing me at hashirshoaeb@gmail.com for help configuring your project.
+Please feel free to reach out to me by filing an [issue](https://github.com/hashirshoaeb/portfolio/issues) or emailing me at johnsontimdev@gmail.com for help on how to bootstrap this app.
 
 ## Prerequisites
 
@@ -83,10 +82,7 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
       git clone https://github.com/<your-username>/portfolio.git
     ``` 
 
-2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.png) with your image. 
-    >Note: You need to rename your image file as `profile.png`.
-
-3. Run following scripts in terminal/command prompt to install dependencies.
+2. Run following scripts in terminal/command prompt to install dependencies.
     ```sh
       npm install
       npm run build
@@ -102,7 +98,7 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
 
 ## Deployment
 
-If it works locally, you can deploy your project to GitHub Pages. GitHub Pages provides two types of free domains, `<username>.github.io` and `<username>.github.io/<repository>`. You can choose the one that suits your needs. You can learn more about domain types from [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites).
+If it works locally, you can deploy your project to GitHub Pages. GitHub Pages provides two types of free domains, `<username>.github.io` or `<username>.github.io/<repository>`. You can choose the one that suits your needs. You can learn more about domain types from [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites).
 
 ### Deploy to \<your-username>.github.io/portfolio
 
@@ -119,9 +115,6 @@ Create a new repository with your username as `<your-username>.github.io`. And l
 
 Your site will be available at `https://<your-username>.github.io`
 
->Note: You need to replace `<your-username>` with your username. To add CNAME for custom domain, see [scripts/cname.js](https://github.com/hashirshoaeb/portfolio/blob/main/scripts/cname.js)
-
-
 
 <!-- CONTRIBUTING -->
 # Contributing
@@ -129,9 +122,9 @@ Your site will be available at `https://<your-username>.github.io`
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contribution you make would be **appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/niceFeature`)
+3. Commit your Changes (`git commit -m 'Add some niceFeature'`)
+4. Push to the Branch (`git push origin feature/nicegFeature`)
 5. Open a Pull Request
 
 
@@ -139,4 +132,4 @@ Contributions are what make the open source community such an amazing place to l
 <!-- LICENSE -->
 # License
 
-Distributed under the `MIT` License. See [LICENSE](https://github.com/hashirshoaeb/portfolio/blob/main/LICENSE) for more information.
+Distributed under the `MIT` License. See [LICENSE](https://github.com/johnsontemidev/portfolio/blob/main/LICENSE) for more information.

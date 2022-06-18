@@ -4,7 +4,7 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-	name: "Hashir",
+	name: "Temilola",
 	links: [
 		{
 			title: "About",
@@ -25,8 +25,8 @@ export const navigation = {
 	],
 }
 export const intro = {
-	title: "Hey, I'm Hashir",
-	description: "A Computer Engineer creating mobile apps and static websites.",
+	title: "Hey, I'm Johnson",
+	description: "An Aspiring Software Engineer. I'm currently developing my knowledge in creating static websites and mobile apps.",
 	image: profile.src,
 	buttons: [
 		{
@@ -36,75 +36,83 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/file/d/1_QHXKFQxWuDUIAFcv14eDaPkwx1JtQ5B/view?usp=sharing",
 			isPrimary: false,
+		},
+		{
+			title: "Certificate",
+			link: "https://drive.google.com/file/d/128t3z_UvktkRSDkTJhDEQEdRSCaYCbD1/view?usp=sharing",
+			isPrimary: true,
 		},
 	],
 }
 
 export const about = {
-	title: "Who I am",
+	title: "About Me -- Aspiring developer at SovTech",
+	link:  "https://www.sovtech.co.za",
 	description: [
-		"I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering. I kick started my professional career as a mobile application developer working remotely for a UK based startup — Lessgo.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-		"When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+              
+		"I recently completed my BSc in Information Technology in 2021, and a certificate programme in Software Engineering. I'm so passionate about Tech and a passionate learner who's always willing to solve problems, and work across technologies and domains. I love to explore new technologies and leverage. I use my free time to guide and mentor upcoming students who are also passionate about Tech.",
+		"The dispensation of the Tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. This has led me to pursue the passion i have as a developer at SovTech",
+		"I would really love to be a developer at SovTech, because it will be a great priviledge for anyone who's passionate about Technology to work and associate with a reputable company like SovTech. I read about SovTech, and realized that I would be a great fit as a developer in the organization because I match the requirements needed to further develop my knowledge, utilize my skills and further gain experience, while enhancing the producitivity of the organization",
+	     
 	],
 }
 
 export const work = {
-	title: "What I do",
+	title: "What I do - Area of Interest",
 	cards: [
 		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+			title: "Full Stack Development",
+			description: "Building responsive front end websites using React | Developing Mobile applications ussing Flutter |  Creating backend application in Node & Express",
 			icons: null,
 		},
 		{
-			title: "Web Development",
-			description: "I create responsive static websites using Reactjs.",
+			title: "Web Development & Design",
+			description: "I create responsive static websites using Reactjs | Designing attractive user friendly interface for mobile app | Customizing logo designs | Video Editing",
 			icons: null,
 		}
 	],
 }
 
 export const projects = {
-	title: "Projects",
+	title: "Projects Currently developing my ",
 	cards: [
 		{
-			title: "StarBook",
-			description: "A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
-			icons: [
+			title: "Data Analytics",
+			description: "Interface with stock price datafeed for data analysis | Display data visually for traders | Using JPMorgan Chase frameworks and tools | Life Expectancy and Birth Rate data measured for each country | Implementing k-means algorithm to run and provide data",
+			icons: [						
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
+					icon: faGithub,
+					link: "https://github.com/johnsontemidev/reactRepoDev",
 				},
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/johnsontemidev/Johnson-Projects-and-SourceCode/tree/master/MachineLearning%20k-means%20Algorithm",
 				},
 			]
 		},
 		{
-			title: "QuranTalk",
-			description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
+			title: "Linear Regression - Diabetes Dataset",
+			description: "Using the diabetes dataset to perform linear regression | Splitting into trainand test data | Calculating the slope and intercept of line | Translating DNA Sequence to a Amino acids where amino acid is represented by unique letter",
 			icons: [
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
+					icon: faGithub,
+					link: "https://github.com/johnsontemidev/Johnson-Projects-and-SourceCode/tree/master/Machine%20Learning%20SCI-KIT%20LEARN",
 				},
 				{
-					icon: faGooglePlay,
-					link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
+					icon: faGithub,
+					link: "https://github.com/johnsontemidev/Johnson-Projects-and-SourceCode/tree/master/SickleCellDiseasePythonProgram",
 				},
 			]
 		},
 		{
 			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			description: "My mini portfolio to showcase my skills as a software developer and what i'm currently working on. I'm currently leanring and developing my knowledge with modern React frameworks, such as: Next.JS/CRA. I used Next.JS to build to this static single application",
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/portfolio",
+					link: "https://github.com/johnsontemidev/portfolio",
 				},
 			]
 		},
@@ -112,12 +120,12 @@ export const projects = {
 }
 
 export const contact = {
-	title: "Get in touch",
-	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+	title: "| Let's Connect |",
+	description: "Get in touch! Please do not hesitate to schedule a meeting or alternatively, feel free to reach out directly by email at johnsontemidev@gmail.com.",
 	buttons: [
 		{
 			title: "Email Me",
-			link: "mailto:hashirshoaeb@gmail.com",
+			link: "mailto:johnsontemidev@gmail.com",
 			isPrimary: true,
 		},
 		{
@@ -131,35 +139,32 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Hashir Shoaib | Computer Engineer | Flutter | Reactjs developer",
-	description: "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+	title: "Temilola Johnson | Software Developer | Flutter | Reactjs developer",
+	description: "I'm Currently developing my knowledge in creating mobile apps and static websites. I graduated from AIU University of Sciences and Technology in 2021 with a degree in Degree in Information Technology.",
 	image: profile.src,
 }
 
 export const links = {
 	image: profile.src,
-	title: "@hashirshoaeb",
-	description: "Computer Engineer | Flutter | Reactjs Developer",
+	title: "@johnsontemidev",
+	description: "Software Developer | Flutter  | Reactjs Developer",
 	cards: [
 		{
-			title: "My website",
-			link: "https://hashirshoaeb.com/",
+			title: "Blog",
+			link: "https://johnsontemidev.blogspot.com/",
+		},
+		
+		{
+			title: "GitHub",
+			link: "https://github.com/johnsontemidev/",
 		},
 		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
+			title: "LinkedIn",
+			link: "https://www.linkedin.com/in/johnson-temilola-adebowale-73aa5a88/",
 		},
 		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
-		},
-		{
-			title: "My GitHub",
-			link: "https://github.com/hashirshoaeb/",
-		},
-		{
-			title: "My LinkedIn",
-			link: "https://www.linkedin.com/in/hashirshoaeb/",
+			title: "SovTech",
+			link: "https://www.sovtech.co.za/",
 		},
 	]
 }

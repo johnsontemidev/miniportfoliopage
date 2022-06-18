@@ -1,14 +1,14 @@
 {
-  "name": "portfolio",
-  "description": "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
-  "homepage": "http://hashirshoaeb.com",
+  "name": "mini-portfolio",
+  "description": "This is my mini portfolio to showcase what i'm currently working on, projects and skills as an aspiring software developer.",
+  "homepage": "http://johnsontemidev.blogspot.com",
   "version": "0.2.0",
   "license": "MIT",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Temilola Johnson",
+    "email": "johnsontemidev@gmail.com",
+    "url": "https://github.com/johnsontemidev"
   },
   "scripts": {
     "prebuild": "node scripts/favicons.js",
@@ -17,8 +17,8 @@
     "start": "next start",
     "export": "next export",
     "predeploy": "npm run build && npm run export && touch ./out/.nojekyll",
-    "deploy": "npm run custom-domain && node scripts/pages.js hashirshoaeb master",
-    "custom-domain": "node scripts/cname.js hashirshoaeb.com www.hashirshoaeb.com",
+    "deploy": "npm run custom-domain && node scripts/pages.js johnsontemidev master",
+    "custom-domain": "node scripts/cname.js johnsontemidev.blogspot.com www.johnsontemidev.blogspot.com",
     "lint": "next lint"
   },
   "dependencies": {
@@ -27,14 +27,14 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "bootstrap": "^5.0.2",
-    "next": "11.0.1",
+    "next": "^12.1.6",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",
     "eslint-config-next": "11.0.1",
-    "favicons": "^6.2.2",
+    "favicons": "^7.0.0-beta.4",
     "gh-pages": "^3.2.3",
     "sass": "^1.37.5"
   }
