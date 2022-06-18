@@ -7,13 +7,13 @@
     It is a personal static portfolio hosted with GitHub Pages, built to showcase my skills as i'm learning and developing my knowledge with modern React frameworks.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://johnsontemidev.github.io/myportfolio"> johnsontemidev.github.io/portfolio</a>
+    <a href="https://johnsontemidev.github.io/myportfolio"> johnsontemidev.github.io/myportfolio</a>
     <br />
     <br />
     <a href="https://https://johnsontemidev.blogspot.com/2022/06/homepage-portfolio-design-2.html">About Me</a>
     ·
     <a href="https://github.com/johnsontemidev/myportfolio/issues">Report Bug</a>
-    ·
+    .
     <a href="https://github.com/johnsontemidev/myportfolio/issues">Request Feature</a>
   </p>
 </p>
