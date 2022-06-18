@@ -1,25 +1,25 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Temilola Portfolio ✨</h1>
+  <h1 align="center">Temilola's Mini Portfolio ✨</h1>
 
   <p align="center">
     It is a personal static portfolio hosted with GitHub Pages, built to showcase my skills as i'm learning and developing my knowledge with modern React frameworks.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://johnsontemidev.github.io/portfolio"> johnsontemidev.github.io/portfolio</a>
+    <a href="https://johnsontemidev.github.io/myportfolio"> johnsontemidev.github.io/portfolio</a>
     <br />
     <br />
     <a href="https://https://johnsontemidev.blogspot.com/2022/06/homepage-portfolio-design-2.html">About Me</a>
     ·
-    <a href="https://github.com/johnsontemidev/portfolio/issues">Report Bug</a>
+    <a href="https://github.com/johnsontemidev/myportfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/johnsontemidev/portfolio/issues">Request Feature</a>
+    <a href="https://github.com/johnsontemidev/myportfolio/issues">Request Feature</a>
   </p>
 </p>
 
-[![GitHub forks](https://img.shields.io/github/forks/johnsontemidev/portfolio?style=for-the-badge)](https://github.com/johnsontemidev/portfolio/network)
-[![GitHub license](https://img.shields.io/github/license/johnsontemidev/portfolio?style=for-the-badge)](https://github.com/johnsontemidev/portfolio/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/johnsontemidev/portfolio?style=for-the-badge)](https://github.com/johnsontemidev/myportfolio/network)
+[![GitHub license](https://img.shields.io/github/license/johnsontemidev/portfolio?style=for-the-badge)](https://github.com/johnsontemidev/myportfolio/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/johnsontemidev?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/johnsontemidev1)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=14.17.3&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=7.19.1&color=cb0000&style=for-the-badge)](https://nodejs.org)
@@ -69,7 +69,7 @@ This is a personal mini portfolio hosted by GitHub Pages, built to develop and s
 <!-- GETTING STARTED -->
 # Getting Started
 
-Please feel free to reach out to me by filing an [issue](https://github.com/hashirshoaeb/portfolio/issues) or emailing me at johnsontimdev@gmail.com for help on how to bootstrap this app.
+Please feel free to reach out to me by filing an [issue](https://github.com/johnsontemidev/myportfolio/issues) or emailing me at johnsontimdev@gmail.com for help on how to bootstrap this app.
 
 ## Prerequisites
 
@@ -100,7 +100,7 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
 
 If it works locally, you can deploy your project to GitHub Pages. GitHub Pages provides two types of free domains, `<username>.github.io` or `<username>.github.io/<repository>`. You can choose the one that suits your needs. You can learn more about domain types from [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites).
 
-### Deploy to \<your-username>.github.io/portfolio
+### Deploy to \<your-username>.github.io/myportfolio
 
 Simply you just need to commit and push your changes to github. And [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions#overview) will take care of the deployment. Your site will be available at `https://<your-username>.github.io/portfolio`
 
@@ -132,4 +132,4 @@ Contributions are what make the open source community such an amazing place to l
 <!-- LICENSE -->
 # License
 
-Distributed under the `MIT` License. See [LICENSE](https://github.com/johnsontemidev/portfolio/blob/main/LICENSE) for more information.
+Distributed under the `MIT` License. See [LICENSE](https://github.com/johnsontemidev/myportfolio/blob/main/LICENSE) for more information.
