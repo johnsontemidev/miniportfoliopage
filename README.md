@@ -50,7 +50,7 @@
 # About The Project
 
 [![Product Name Screen Shot](/READMEdocs/screenshot.gif)](https://example.com)
-.
+
 This is a personal mini portfolio hosted by GitHub Pages, built to develop and showcase my knowledge in frontend development with Next.JS.
 .
 
